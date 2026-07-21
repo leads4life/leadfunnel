@@ -1,0 +1,5 @@
+# Source archive retained locally for provenance; extracted contents are tracked.
+*.zip
+
+# Local lead storage used during development.
+.local/
